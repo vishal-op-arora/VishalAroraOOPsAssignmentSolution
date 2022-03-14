@@ -1,4 +1,6 @@
-package com.greatlearning.dept.model;
+package com.greatlearning.dept.admin;
+
+import com.greatlearning.dept.base.SuperDepartment;
 
 public class AdminDepartment extends SuperDepartment {
 	

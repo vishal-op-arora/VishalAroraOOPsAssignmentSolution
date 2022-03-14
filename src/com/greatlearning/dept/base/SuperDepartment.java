@@ -1,4 +1,4 @@
-package com.greatlearning.dept.model;
+package com.greatlearning.dept.base;
 
 public class SuperDepartment {
 	

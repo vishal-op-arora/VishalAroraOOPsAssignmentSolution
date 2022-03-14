@@ -1,8 +1,8 @@
-package com.greatlearning.dept.client;
+package com.greatlearning.dept.main;
 
-import com.greatlearning.dept.model.AdminDepartment;
-import com.greatlearning.dept.model.HrDepartment;
-import com.greatlearning.dept.model.TechDepartment;
+import com.greatlearning.dept.admin.AdminDepartment;
+import com.greatlearning.dept.hr.HrDepartment;
+import com.greatlearning.dept.tech.TechDepartment;
 
 public class Main {
 	public static void main(String[] args) {
