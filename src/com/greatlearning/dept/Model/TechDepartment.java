@@ -1,4 +1,4 @@
-package defaultPackage;
+package com.greatlearning.dept.Model;
 
 public class TechDepartment extends SuperDepartment {
 
