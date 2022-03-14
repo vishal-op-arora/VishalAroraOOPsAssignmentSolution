@@ -1,4 +1,4 @@
-package com.greatlearning.dept.Model;
+package com.greatlearning.dept.model;
 
 public class HrDepartment extends SuperDepartment{
 	
